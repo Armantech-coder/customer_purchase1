@@ -1,4 +1,3 @@
-!pip install pandas==2.3.3
 import streamlit as st
 import pandas as pd
 import joblib
